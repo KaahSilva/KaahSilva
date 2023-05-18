@@ -1,7 +1,7 @@
 ### Olá eu sou Kalline Ferreira 🖖 
 - 🌱 Atualmente estou aprendendo Javascript
-- ✨Soft Skill: Trabalho em equipe, familiaridade com a metodologia Ageis
-- ⚡ Curiosidade: adoro star wars e gatos
+- ✨Soft Skill: Trabalho em equipe, familiaridade com Metodologia Ageis
+<!-- - ⚡ Curiosidade: adoro star wars e gatos -->
 
 ##
 
@@ -12,11 +12,22 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=KaahSilva&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KaahSilva&show_icons=true" />
+    
 </picture>
+  <div> 
+<!--     ![personagem](https://github.com/KaahSilva/KaahSilva/assets/74149487/b2b6111b-4b23-4c09-ab0e-6fac1259cdee) -->
+    <img align="right" alt="kah" width="200"src="https://github.com/KaahSilva/KaahSilva/assets/74149487/b2b6111b-4b23-4c09-ab0e-6fac1259cdee" >
+
+<!--     <img align="right" alt="kah" src="https://discordapp.com/channels/1077749924550164571/1077749925070254082/1108551666711670895" ![personagem](https://github.com/KaahSilva/KaahSilva/assets/74149487/64f1dd56-947d-40a8-aed2-41ea5b18524c)
+![personagem](https://github.com/KaahSilva/KaahSilva/assets/74149487/6a2e1825-479b-4a71-9aec-d5efe0fbb077)
+![personagem](https://github.com/KaahSilva/KaahSilva/assets/74149487/fdaee59a-d8e7-4f6a-b97e-e26910db104f)
+/>  -->
+  </div>
+ 
   
 ##  
   
@@ -61,3 +72,4 @@ Here are some ideas to get you started:
 - ✨Soft Skill: Teamwork, familiarity with Ageis methodology
 - ⚡ Curiosity: I love star wars and cats
 -->
+
