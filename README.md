@@ -1,5 +1,5 @@
 ### Olá eu sou Kalline Ferreira 🖖 
-- 🌱 Atualmente estou aprendendo Javascript
+- 🌱 Atualmente estou estudando Javascript
 - ✨Soft Skill: Trabalho em equipe, familiaridade com Metodologia Ageis
 <!-- - ⚡ Curiosidade: adoro star wars e gatos -->
 
